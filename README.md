@@ -1,5 +1,5 @@
 # Joko Auditis
-
+*how to get API tokopedia https://www.youtube.com/watch?v=2cHDgdmVoGQ&feature=youtu.be :))
 ![alt text](https://i.ytimg.com/vi/vGOldJHyXAc/maxresdefault.jpg)
 
 * git clone https://github.com/jokorezky/Reactnative-redux-completed.git
