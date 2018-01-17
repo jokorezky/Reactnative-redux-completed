@@ -1,0 +1,10 @@
+
+node_modules/
+
+ios/
+
+android/
+
+ChangeLog\.md
+
+App\.test\.js
