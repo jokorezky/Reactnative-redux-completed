@@ -1,7 +1,7 @@
 # Joko Auditis
 
 
-> git clone https://github.com/jokorezky/Reactnative-redux-completed.git
+* git clone https://github.com/jokorezky/Reactnative-redux-completed.git
 > npm install
 > react-native eject
 > react-native link
