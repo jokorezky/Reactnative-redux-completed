@@ -1,5 +1,6 @@
 # Joko Auditis
 
+![alt text](https://i.ytimg.com/vi/vGOldJHyXAc/maxresdefault.jpg)
 
 * git clone https://github.com/jokorezky/Reactnative-redux-completed.git
 * npm install
