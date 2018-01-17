@@ -6,7 +6,8 @@
 * npm install
 * react-native eject
 * react-native link
-* cd android 
-* nano local.properties and add new line sdk.dir=/Users/yourpath/Library/Android/sdk 
+* cd android
+* nano local.properties and add new line sdk.dir=/Users/yourpath/Library/Android/sdk
 * react-native run-android
 * have fun ;)
+* http://jokoauditis.com/
